@@ -154,8 +154,8 @@
 
 		"titleBar.inactiveForeground": "#ccc1ea",
 		"statusBar.noFolderForeground": "#9d95be",
-		"tab.inactiveBackground": "#695b83",
-		"tab.inactiveForeground": "#F8F8F2",
+		"tab.inactiveBackground": "#705a96",
+		"tab.inactiveForeground": "#a478aa",
 		"list.inactiveFocusBackground": "#7D7796",
 		"list.inactiveSelectionBackground": "#716799",
 		"list.inactiveSelectionForeground": "#b6b3cf",

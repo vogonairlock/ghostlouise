@@ -5,3 +5,8 @@
 ![theme preview](image.jpg)
 
 
+
+Install Fira Code and enable ligatures:
+
+https://github.com/tonsky/FiraCode
+
