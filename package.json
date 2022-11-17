@@ -1,0 +1,26 @@
+{
+  "name": "ghostlouise",
+  "displayName": "ghostlouise",
+  "description": "purple dark theme for louise <3",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ghostlouise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ghostlouise-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+		"type": "git",
+		"url": ""
+	},
+  "icon": "https://i.ibb.co/68YWC6B/ghostlouiselogo.png"
+}
