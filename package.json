@@ -25,5 +25,6 @@
 	}, 
   "galleryBanner.color": {
     "background": "#705a96"
-  }
+  },
+  "icon": "assets/logo.png"
 }
