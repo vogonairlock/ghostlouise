@@ -1,5 +1,4 @@
 
-
 Flat pastel dark theme for VSCode. 
 
 
@@ -8,6 +7,7 @@ Flat pastel dark theme for VSCode.
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/zazcdev.ghostlouise)  
 
 ![theme banner](https://i.ibb.co/tbfhtpP/themebanner.png)
+
 ![theme preview](https://i.ibb.co/1vcHK6S/themeexamples.png)
 
 
