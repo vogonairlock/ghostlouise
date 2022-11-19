@@ -21,6 +21,9 @@
   },
   "repository": {
 		"type": "git",
-		"url": ""
-	}
+		"url": "https://github.com/zazcdev/ghostlouise"
+	}, 
+  "galleryBanner.color": {
+    "background": "#705a96"
+  }
 }
