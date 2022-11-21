@@ -3,7 +3,7 @@
 	"displayName": "ghostlouise",
 	"publisher": "zazcdev",
 	"description": "purple dark theme for louise <3",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.73.0"
 	},

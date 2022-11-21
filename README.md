@@ -8,7 +8,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ![theme banner](https://i.ibb.co/tbfhtpP/themebanner.png)
 
-![theme preview](https://i.ibb.co/1vcHK6S/themeexamples.png)
+![theme preview](https://i.ibb.co/Wt5YDpW/themeexamples.png)
 
 
 ### Font
