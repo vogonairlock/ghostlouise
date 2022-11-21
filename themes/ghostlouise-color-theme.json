@@ -197,13 +197,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#8168ad"
+				"foreground": "#9682C8"
 			}
 		},
 		{
 			"scope": "string.quoted.docstring.multi.python",
 			"settings": {
-				"foreground": "#8168ad"
+				"foreground": "#9682C8"
 			}
 		},
 		{
