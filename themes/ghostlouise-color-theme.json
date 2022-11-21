@@ -114,7 +114,7 @@
 		"peekView.border": "#705a96a0",
 		"peekViewResult.selectionBackground": "#705a96a5",
 
-		"editor.lineHighlightBackground": "#5c477fb7",
+		"editor.lineHighlightBackground": "#9570cf2b",
 		"editor.findMatchBackground":"#5c477fb7",
 		"editor.findMatchHighlightBackground":"#5c477fb7",
 		"editor.findMatchHighlightBorder":"#5c477fb7",
@@ -133,7 +133,7 @@
 		"list.dropBackground": "#705a9676",
 
 		"focusBorder": "#5c477fb7",
-		"editor.selectionBackground": "#5c477fb7",
+		"editor.selectionBackground": "#8666b99d",
 		"list.focusBackground": "#5c477fb7",
 		"list.activeSelectionBackground": "#5c477fb7",
 		"list.activeSelectionForeground": "#b6b3cf",
