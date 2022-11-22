@@ -9,7 +9,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 ![theme banner](https://i.ibb.co/tbfhtpP/themebanner.png)
 
 ![theme preview](https://i.ibb.co/Wt5YDpW/themeexamples.png)
-
+*I'm too tired to fix the text on this banner to read 'python & html' so you'll just have to pretend that's what it says*
 
 ### Font
 
