@@ -23,7 +23,7 @@ How to: [Install Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Inst
 contact: support@zazc.dev 
 
 
-*Created by [zazc](https://github.com/zazcdev) for louise ♡*
+*Created by [zazc](https://github.com/zazcc) for louise ♡*
 
 
 
