@@ -20,10 +20,9 @@ How to: [Install Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Inst
 
 ### Issues
 
-contact: support@zazc.dev 
+contact: zazcdev@gmail.com
 
-
-*Created by [zazc](https://github.com/zazcc) for louise ♡*
+*Created by [A Lurgid Bee](https://github.com/vogonairlock) for louise ♡*
 
 
 
